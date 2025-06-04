@@ -52,5 +52,24 @@ gap: 1rem;
     text-align: center;
     padding: 1rem;
     font-size: 0.9rem;
-    color: #ffffff
+    color: #ffffff;
+    position: fixed;
+    bottom: 0 ;
+    width: 100%;
+    
+    
  }
+
+ #social-networks {
+    text-align: right;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: #3a3a3a;
+}
