@@ -46,3 +46,11 @@ gap: 1rem;
  .navbar li a:hover{
     color: #d71717;
  }
+
+ footer{
+    background-color: #888888;
+    text-align: center;
+    padding: 1rem;
+    font-size: 0.9rem;
+    color: #ffffff
+ }
