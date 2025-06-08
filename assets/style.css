@@ -183,3 +183,14 @@ p{
 .submit-btn:hover {
   background-color: #f5c842;
 }
+
+/* Styling for gallery*/
+.gallery {
+  column-count: 3; 
+  column-gap: 1rem;
+}
+.gallery img {
+  width: 100%;
+  margin-bottom: 1rem;
+  display: block;
+}
